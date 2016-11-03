@@ -2,7 +2,7 @@
 Miscellaneous scripts for miscellaneous stuff
 
 ## GetGardnerMusic.pl ##
-Downloads the music library of [Isabella Stewart Gardner Museum](http://www.gardnermuseum.org/) automatically.  Only the new files that are not found in the current directory are fetched.  Between each download, the script pauses so that we are not overwhelming the server with the requests.
+Downloads the [music library of Isabella Stewart Gardner Museum](http://www.gardnermuseum.org/music/listen/music_library) automatically.  Only the new files that are not found in the current directory are fetched.  Between each download, the script pauses so that we are not overwhelming the server with the requests.
 
 ### Usage ###
 ```
